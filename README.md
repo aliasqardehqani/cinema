@@ -1,2 +1,2 @@
 # cinema
-یک پروژه سینمایی که برای تمرین زده شده
+a cinema api project
